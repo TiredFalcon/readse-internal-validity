@@ -1,6 +1,20 @@
 # Replication package for ReadSE internal validity study
 
-Description of Jupyter notebooks:
+## Instructions
+
+Run the following command in the repository root:
+
+```bash
+docker run -d --name internal_validity_study -p 8888:8888 -v "$PWD":/home/jovyan/work jupyter/datascience-notebook
+```
+
+Inspect the logs to get the connection link:
+
+```bash
+docker logs internal_validity_study
+```
+
+## Description of Jupyter notebooks
 
  - `Generation_of_Survey_Questions.ipynb`: This notebook is used to generate survey questions in qualtrics TXT format.  
  It uses the file `raw_data.json` and it creates the files `raw_data.md` and `data_clean_questions.txt`.
@@ -11,7 +25,7 @@ Description of Jupyter notebooks:
  - `Survey_responses_analysys.ipynb`: This notebook is used to analyse survey results. It reads the `survey_results_processed.csv` file. It produces two images (in `figures/`) and the file `survey_questions_report.md`.  
  IMPORTANT: all paragraph pairs are swapped so that the readability deltas show a decrease (responses are swapped accordingly).
 
-Description of files:
+## Description of files
 
  - raw_data.json: raw data in JSON format. An array of paragraph pairs. Each element has the following shape:
     ```json
