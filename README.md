@@ -81,6 +81,6 @@ Each question has as question ID the original `_id` of the paragraph pair (with 
     from.FKG, to.FKG: Flesch⁠—Kincaid grade level of paragraphs
     ```
 
-- `figures/`: survey results plots of counts of values in the likert scale.
+- `figures/`: plots of survey results. There are two figures, both depicting counts of values in the likert scale. One includes neutral responses, the other does not.
 
 - `survey_questions_report.md`: report with all paragraph pairs as seen in the `figures`.
