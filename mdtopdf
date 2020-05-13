@@ -1,0 +1,9 @@
+#!/bin/sh
+
+if [ $# -ne 2 ]; then
+    echo "Usage: mdtopdf <in.md> <out.pdf>";
+    exit 1;
+else
+    pandoc -s -N -Vgeometry:margin=2cm $1 -o $2;
+    exit 0;
+fi
