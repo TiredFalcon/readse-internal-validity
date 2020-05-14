@@ -31,10 +31,10 @@ After obtaining all the commits with refactoring operations, we filtered out com
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Strongly agree | readability decreased | 1 |
-| Somewhat agree | readability decreased | 2 |
 | Neither agree nor disagree | readability did not change | 3 |
+| Somewhat agree | readability decreased | 2 |
 | Somewhat disagree | readability increased | 4 |
+| Strongly agree | readability decreased | 1 |
 | Strongly disagree | readability increased | 1 |
 
 ## Paragraph pair 5eb23431deb70a6af2247fa8
@@ -60,10 +60,10 @@ The evaluator also had to assign a negative or positive sentiment to the reporte
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Strongly agree | readability decreased | 3 |
-| Somewhat agree | readability decreased | 5 |
 | Neither agree nor disagree | readability did not change | 3 |
+| Somewhat agree | readability decreased | 5 |
 | Somewhat disagree | readability increased | 1 |
+| Strongly agree | readability decreased | 3 |
 
 ## Paragraph pair 5eb23451deb70a6af224dc9a
 ### Paragraphs
@@ -88,10 +88,10 @@ Rodriguez-Perez et al. conducted two case studies to introduce a metric Time To
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Strongly agree | readability decreased | 3 |
-| Somewhat agree | readability decreased | 2 |
 | Neither agree nor disagree | readability did not change | 2 |
+| Somewhat agree | readability decreased | 2 |
 | Somewhat disagree | readability increased | 4 |
+| Strongly agree | readability decreased | 3 |
 
 ## Paragraph pair 5eb23451deb70a6af224dcd2
 ### Paragraphs
@@ -116,10 +116,10 @@ Sliwerski et al., studied the day of the week and size of commits for two total
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Strongly agree | readability decreased | 2 |
-| Somewhat agree | readability decreased | 5 |
 | Neither agree nor disagree | readability did not change | 3 |
+| Somewhat agree | readability decreased | 5 |
 | Somewhat disagree | readability increased | 2 |
+| Strongly agree | readability decreased | 2 |
 
 ## Paragraph pair 5eb23455deb70a6af2250d84
 ### Paragraphs
@@ -144,9 +144,9 @@ In most cases, the change occurred in the form of a comment update (113), while 
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Strongly agree | readability decreased | 2 |
 | Somewhat agree | readability decreased | 2 |
 | Somewhat disagree | readability increased | 6 |
+| Strongly agree | readability decreased | 2 |
 | Strongly disagree | readability increased | 1 |
 
 ## Paragraph pair 5eb23455deb70a6af2251726
@@ -172,10 +172,10 @@ Although these types of changes are usually not performed because of code-commen
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Strongly agree | readability decreased | 1 |
-| Somewhat agree | readability decreased | 3 |
 | Neither agree nor disagree | readability did not change | 3 |
+| Somewhat agree | readability decreased | 3 |
 | Somewhat disagree | readability increased | 5 |
+| Strongly agree | readability decreased | 1 |
 
 ## Paragraph pair 5eb234b5deb70a6af225dbd8
 ### Paragraphs
@@ -200,8 +200,8 @@ Moreover, since our goal is to further research in the context of documentation 
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Strongly agree | readability decreased | 2 |
 | Somewhat agree | readability decreased | 5 |
+| Strongly agree | readability decreased | 2 |
 | Strongly disagree | readability increased | 3 |
 
 ## Paragraph pair 5eb234b5deb70a6af225f6fd
@@ -227,8 +227,8 @@ Software summarization techniques and tools with the goal of providing abstracti
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Somewhat agree | readability decreased | 3 |
 | Neither agree nor disagree | readability did not change | 3 |
+| Somewhat agree | readability decreased | 3 |
 | Somewhat disagree | readability increased | 2 |
 | Strongly disagree | readability increased | 2 |
 
@@ -255,8 +255,8 @@ Example: We observed different causes of incompleteness such as missing explanat
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Somewhat agree | readability decreased | 4 |
 | Neither agree nor disagree | readability did not change | 2 |
+| Somewhat agree | readability decreased | 4 |
 | Somewhat disagree | readability increased | 4 |
 
 ## Paragraph pair 5eb234c6deb70a6af2261837
@@ -282,10 +282,10 @@ Some developers adopt preventative solutions to ensure the documentation up-to-d
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Strongly agree | readability decreased | 3 |
-| Somewhat agree | readability decreased | 4 |
 | Neither agree nor disagree | readability did not change | 2 |
+| Somewhat agree | readability decreased | 4 |
 | Somewhat disagree | readability increased | 2 |
+| Strongly agree | readability decreased | 3 |
 | Strongly disagree | readability increased | 2 |
 
 ## Paragraph pair 5eb234c6deb70a6af2261c0c
@@ -311,8 +311,8 @@ Common Solution: Writing script is the most adopted solution regarding the autom
 ### Survey responses
 | Response | Meaning | Count |
 | --- | ---: | --- |
-| Strongly agree | readability decreased | 4 |
-| Somewhat agree | readability decreased | 3 |
 | Neither agree nor disagree | readability did not change | 2 |
+| Somewhat agree | readability decreased | 3 |
 | Somewhat disagree | readability increased | 1 |
+| Strongly agree | readability decreased | 4 |
 
