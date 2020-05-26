@@ -144,8 +144,8 @@ Flesch—Kincaid grade level: -3.1052631578947363
 
 ## Change in research-bin-ase2018
 id: 5eb23431deb70a6af2247f58  
-Flesch reading ease: -11.717338593974176  
-Flesch—Kincaid grade level: +3.3733285509325697  
+Flesch reading ease: -8.164838593974196  
+Flesch—Kincaid grade level: +2.0083285509325677  
 
 | **Version 5eb233f4deb70a6af2235fb8** | **Version 5eb233f5deb70a6af223633c** |
 | :------ | :------ |
@@ -156,8 +156,8 @@ Flesch—Kincaid grade level: +3.3733285509325697
 
 ## Change in research-bin-ase2018
 id: 5eb23431deb70a6af2247ff6  
-Flesch reading ease: -0.6819565217391244  
-Flesch—Kincaid grade level: +2.8278260869565237  
+Flesch reading ease: +3.0397101449275397  
+Flesch—Kincaid grade level: +1.3978260869565204  
 
 | **Version 5eb233f4deb70a6af2235fb8** | **Version 5eb233f5deb70a6af223633c** |
 | :------ | :------ |
@@ -239,8 +239,8 @@ Flesch—Kincaid grade level: +4.836260233918129
 
 ## Change in research-bin-ase2018
 id: 5eb23431deb70a6af2248291  
-Flesch reading ease: +8.118879598662204  
-Flesch—Kincaid grade level: -2.8714158305462654  
+Flesch reading ease: +5.750546265328893  
+Flesch—Kincaid grade level: -1.9614158305462652  
 
 | **Version 5eb233f6deb70a6af2236b5f** | **Version 5eb233f7deb70a6af2236e5f** |
 | :------ | :------ |
@@ -251,8 +251,8 @@ Flesch—Kincaid grade level: -2.8714158305462654
 
 ## Change in research-bin-ase2018
 id: 5eb23431deb70a6af224806d  
-Flesch reading ease: -16.886451612903244  
-Flesch—Kincaid grade level: +3.3490322580645184  
+Flesch reading ease: -15.53311827956992  
+Flesch—Kincaid grade level: +2.8290322580645224  
 
 | **Version 5eb233efdeb70a6af2235099** | **Version 5eb233f0deb70a6af22353eb** |
 | :------ | :------ |
@@ -275,8 +275,8 @@ Flesch—Kincaid grade level: +3.8992459016393433
 
 ## Change in research-bin-ase2018
 id: 5eb23431deb70a6af22482d2  
-Flesch reading ease: -0.823088235294108  
-Flesch—Kincaid grade level: -3.363186274509804  
+Flesch reading ease: -7.928088235294126  
+Flesch—Kincaid grade level: -0.6331862745098036  
 
 | **Version 5eb233efdeb70a6af2235099** | **Version 5eb233f0deb70a6af22353eb** |
 | :------ | :------ |
@@ -423,8 +423,8 @@ Flesch—Kincaid grade level: +5.721414900888583
 
 ## Change in research-msr2019-stackoverflow-reuse
 id: 5eb23452deb70a6af224fb08  
-Flesch reading ease: +14.423267217335308  
-Flesch—Kincaid grade level: -5.961759493670886  
+Flesch reading ease: +4.400142217335315  
+Flesch—Kincaid grade level: -2.110509493670886  
 
 | **Version 5eb233f5deb70a6af223647b** | **Version 5eb233f6deb70a6af2236c1b** |
 | :------ | :------ |
