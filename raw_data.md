@@ -38,8 +38,8 @@ Flesch—Kincaid grade level: +2.802569976953695
 
 ## Change in research-bin-saner2019-era
 id: 5eb233fadeb70a6af223796d  
-Flesch reading ease: -10.74362068965516  
-Flesch—Kincaid grade level: +2.669679278901585  
+Flesch reading ease: -11.659184069936828  
+Flesch—Kincaid grade level: +2.7618922731793063  
 
 | **Version 5eb233eddeb70a6af2234bcc** | **Version 5eb233eddeb70a6af2234d71** |
 | :------ | :------ |
@@ -110,8 +110,8 @@ Flesch—Kincaid grade level: -4.439236260355997
 
 ## Change in research-bin-saner2019-era
 id: 5eb233fadeb70a6af2237a94  
-Flesch reading ease: +22.864864864864842  
-Flesch—Kincaid grade level: -3.189189189189186  
+Flesch reading ease: +21.150000000000006  
+Flesch—Kincaid grade level: -2.950000000000003  
 
 | **Version 5eb233f5deb70a6af223621a** | **Version 5eb233f5deb70a6af22364f3** |
 | :------ | :------ |
@@ -192,8 +192,8 @@ Flesch—Kincaid grade level: -7.150151515151515
 
 ## Change in research-bin-ase2018
 id: 5eb23431deb70a6af2248161  
-Flesch reading ease: -18.640000000000043  
-Flesch—Kincaid grade level: +2.8483333333333327  
+Flesch reading ease: -16.396818181818162  
+Flesch—Kincaid grade level: +2.535454545454547  
 
 | **Version 5eb233fddeb70a6af223837c** | **Version 5eb233fedeb70a6af22385de** |
 | :------ | :------ |
@@ -311,8 +311,8 @@ Flesch—Kincaid grade level: -4.542134762256712
 
 ## Change in research-fengcai-icpc2020
 id: 5eb23451deb70a6af224d977  
-Flesch reading ease: -25.210000000000008  
-Flesch—Kincaid grade level: +4.51  
+Flesch reading ease: -21.933760504201686  
+Flesch—Kincaid grade level: +4.425672268907563  
 
 | **Version 5eb2341bdeb70a6af223d61d** | **Version 5eb2341cdeb70a6af223d93b** |
 | :------ | :------ |
@@ -449,8 +449,8 @@ Flesch—Kincaid grade level: +2.3536016644174484
 
 ## Change in research-msr2019-stackoverflow-reuse
 id: 5eb23452deb70a6af224fc1f  
-Flesch reading ease: -64.09489069131112  
-Flesch—Kincaid grade level: +23.566141668528033  
+Flesch reading ease: -64.82679130216374  
+Flesch—Kincaid grade level: +23.71998290818202  
 
 | **Version 5eb233f3deb70a6af2235c41** | **Version 5eb233f3deb70a6af2235de1** |
 | :------ | :------ |
@@ -479,8 +479,8 @@ The ARI (Automated Readability Index), SMOG (Simple Measure of Gobbledygook, SMO
 
 ## Change in research-msr2019-stackoverflow-reuse
 id: 5eb23452deb70a6af224f700  
-Flesch reading ease: +13.964782608695657  
-Flesch—Kincaid grade level: -5.425797101449277  
+Flesch reading ease: +15.062822580645133  
+Flesch—Kincaid grade level: -5.578951612903225  
 
 | **Version 5eb233fbdeb70a6af2237e57** | **Version 5eb233fcdeb70a6af22380bf** |
 | :------ | :------ |
@@ -970,8 +970,8 @@ Flesch—Kincaid grade level: -1.1593219535324835
 
 ## Change in research-emadpres-icse2020
 id: 5eb234b5deb70a6af225d2ab  
-Flesch reading ease: -44.55499999999998  
-Flesch—Kincaid grade level: +7.456666666666667  
+Flesch reading ease: -44.48493788819874  
+Flesch—Kincaid grade level: +7.446894409937888  
 
 | **Version 5eb23437deb70a6af224af7e** | **Version 5eb23437deb70a6af224b059** |
 | :------ | :------ |
@@ -1036,8 +1036,8 @@ Flesch—Kincaid grade level: +0.7642426520847607
 
 ## Change in research-emadpres-icse2020
 id: 5eb234b5deb70a6af225f9a4  
-Flesch reading ease: +6.837124382969961  
-Flesch—Kincaid grade level: -3.67303968090733  
+Flesch reading ease: +5.523804779861422  
+Flesch—Kincaid grade level: -3.560837385708467  
 
 | **Version 5eb233fcdeb70a6af2238100** | **Version 5eb233fddeb70a6af22383bd** |
 | :------ | :------ |
